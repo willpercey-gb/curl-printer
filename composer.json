@@ -1,5 +1,5 @@
 {
-    "name": "sergey-bel/curl-printer",
+    "name": "uwebpro/curl-printer",
     "description": "Print psr requests as curl command string",
     "authors": [
         {
